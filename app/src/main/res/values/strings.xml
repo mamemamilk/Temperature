@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="Tem_textView">TextView</string>
+    <string name="temperature">Temperature</string>
+    <string name="c_f">แปลงจาก C เป็น F</string>
+    <string name="f_c">แปลงจากF เป็น C</string>
+</resources>
